@@ -20,7 +20,6 @@ This project implements a Deep Learning model to classify breast cancer histopat
 - `BCD.ipynb`: Data downloading, preprocessing, and model training.
 - `app.py`: Streamlit web application for real-time inference.
 - `model.json` & `model.weights.h5`: Saved model architecture and weights.
-- `image_processing/`: Helper scripts for image handling.
 
 ## 🚀 Installation & Usage
 
