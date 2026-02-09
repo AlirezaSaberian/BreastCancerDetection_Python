@@ -26,8 +26,8 @@ This project implements a Deep Learning model to classify breast cancer histopat
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/AlirezaSaberian/breast-cancer-detection.git](https://github.com/AlirezaSaberian/breast-cancer-detection.git)
-cd breast-cancer-detection
+git clone [https://github.com/AlirezaSaberian/BreastCancerDetection_Python.git](https://github.com/AlirezaSaberian/BreastCancerDetection_Python.git)
+cd BreastCancerDetection_Python
 ```
 
 ### 2. Activate Virtual Environment
